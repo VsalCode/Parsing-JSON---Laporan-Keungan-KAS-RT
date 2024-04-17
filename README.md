@@ -79,7 +79,7 @@ dependencies {
 **Link:**
 
 * Youtube: [https://www.youtube.com/channel/UCCFz_iN-Qy-mGCn-67um0iw]
-* Laporan PDF: [https://drive.google.com/drive/my-drive?hl=id]
+* Laporan PDF: [https://drive.google.com/file/d/1Bzi7nUzFkZvCuUcJpF2xgJ-rzY9nJ5QR/view?usp=drivesdk]
 
 **Referensi:**
 
